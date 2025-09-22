@@ -39,3 +39,63 @@ luac.out
 *.x86_64
 *.hex
 
+# ===================================================================
+# Roblox - Luau
+# 
+# Standard .gitignore for Roblox projects using Rojo, Wally,
+# or other modern development tools.
+# ===================================================================
+
+# 1. Rojo Build Artifacts
+# -------------------------------------------------------------------
+# Directory for place files built from Rojo
+/build
+/builds
+*.rbxl
+*.rbxlx
+
+# 2. Tooling and IDE Configuration
+# -------------------------------------------------------------------
+# Visual Studio Code
+.vscode/
+
+# Other IDEs
+.idea/
+
+# 3. Wally Packages and Libraries
+# -------------------------------------------------------------------
+# Directory for packages downloaded by Wally
+Packages/
+.wally-cache/
+
+# 4. Temporary and Log Files
+# -------------------------------------------------------------------
+*.log
+*.lock
+*.tmp
+
+# 5. Operating System Specific Files
+# -------------------------------------------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.[Dd]esktop.ini
+
+# 6. Other Possible Generated Directories
+# -------------------------------------------------------------------
+# node_modules directory if using JS/TS tooling
+node_modules/
+
+# Test coverage results
+coverage/
+
+# ===================================================================
+# End of .gitignore
+# ===================================================================
+
