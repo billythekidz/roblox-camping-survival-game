@@ -2,7 +2,7 @@
 
 This project is a camping survival game prototype I built over a weekend as my first foray into the Roblox platform. While I have 6 years of experience developing games with Unity, this was a new and exciting challenge.
 
-The game was developed by following the [**Camping Survival Game**](https://www.udemy.com/course/robloxadvancedcodingcourse/) course on Udemy.
+The game was developed by following the course on Udemy.
 
 This project showcases my ability to quickly adapt to new platforms, learn independently, and apply new skills in a practical setting.
 
