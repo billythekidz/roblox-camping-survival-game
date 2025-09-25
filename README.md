@@ -4,6 +4,12 @@ This project is a camping survival game prototype I built over a weekend as my f
 
 The game was developed by following the [**Camping Survival Game**](https://www.udemy.com/course/robloxadvancedcodingcourse/) course on Udemy.
 
+This project showcases my ability to quickly adapt to new platforms, learn independently, and apply new skills in a practical setting.
+
+## Play the Game
+
+You can try the prototype here: [**Play on Roblox**](https://create.roblox.com/dashboard/creations/experiences/8798985738/overview)
+
 ## Learning Journey
 
 Transitioning from Unity to Roblox introduced many new concepts. I documented my learning process, focusing on active research and experimentation to understand a wide range of topics, including:
@@ -38,8 +44,29 @@ Transitioning from Unity to Roblox introduced many new concepts. I documented my
     -   Managing packages with Wally.
     -   Integrating GitHub Copilot directly into the Roblox workflow.
 
-This project showcases my ability to quickly adapt to new platforms, learn independently, and apply new skills in a practical setting.
+## Features
 
-## Play the Game
+Based on the Udemy course curriculum, here is the current progress of the game's features.
 
-You can try the prototype here: [**Play on Roblox**](https://create.roblox.com/dashboard/creations/experiences/8798985738/overview)
+### Implemented Features
+- [x] **Environment & Basic Setup**: Set up the game world and initial environment.
+- [x] **Resource Gathering System**:
+    - Implemented log pickup and a central woodpile system (add/take).
+    - Created the axe tool with animations for chopping trees.
+    - Implemented tree spawning, finding the nearest tree, and spawning logs after chopping.
+- [x] **Campfire Mechanics**: Players can add logs to the fire.
+- [x] **Core Player Systems**: Developed a utility module for player messages.
+
+### In Progress / Planned Features
+- [ ] **Advanced Survival Mechanics**:
+    - Player survival clock, hunger, and damage system.
+    - Food gathering (collecting/eating apples).
+- [ ] **Enemy AI**:
+    - Create rat enemies with AI (patrolling, eating, attacking players).
+    - AI behavior variations (night-only attacks, safe zones).
+- [ ] **Advanced Gameplay Loop**:
+    - Player lives, respawning, and stats system.
+    - Day/night cycle with increased difficulty.
+    - Environmental hazards (e.g., lava).
+- [ ] **Data Persistence**: Save player data using DataStores.
+- [ ] **Game Balancing & Polishing**.
