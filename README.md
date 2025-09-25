@@ -8,11 +8,11 @@ This project showcases my ability to quickly adapt to new platforms, learn indep
 
 ## 🎮 Play the Game
 
-<a href="https://www.roblox.com/vi/games/125940314543671/Roblox-Developer-Showcase-Camping-Survival-Game">
+<a href="https://www.roblox.com/games/125940314543671/Roblox-Developer-Showcase-Camping-Survival-Game">
     <img src="Screenshots/game_icon_512.jpg" alt="Game Icon" width="128"/>
 </a>
 
-You can try the prototype here: [**Play on Roblox**](https://www.roblox.com/vi/games/125940314543671/Roblox-Developer-Showcase-Camping-Survival-Game)
+You can try the prototype here: [**Play on Roblox**](https://www.roblox.com/games/125940314543671/Roblox-Developer-Showcase-Camping-Survival-Game)
 
 ## ✨ Features
 
