@@ -1,4 +1,4 @@
-# Roblox Developer Showcase - Camping Survival Game
+# 🏕️ Roblox Developer Showcase - Camping Survival Game
 
 This project is a camping survival game prototype I built over a weekend as my first foray into the Roblox platform. While I have 6 years of experience developing games with Unity, this was a new and exciting challenge.
 
@@ -6,11 +6,40 @@ The game was developed by following the [**Camping Survival Game**](https://www.
 
 This project showcases my ability to quickly adapt to new platforms, learn independently, and apply new skills in a practical setting.
 
-## Play the Game
+## 🎮 Play the Game
+
+![Game Icon](Screenshots/game_icon_512.jpg)
 
 You can try the prototype here: [**Play on Roblox**](https://create.roblox.com/dashboard/creations/experiences/8798985738/overview)
 
-## Learning Journey
+## ✨ Features
+
+Based on the course curriculum, here is the current progress of the game's features.
+
+### Implemented Features
+- [x] **Environment & Basic Setup**: Set up the game world and initial environment.
+- [x] **Resource Gathering System**:
+    - Implemented log pickup and a central woodpile system (add/take).
+    - Created the axe tool with animations for chopping trees.
+    - Implemented tree spawning, finding the nearest tree, and spawning logs after chopping.
+- [x] **Campfire Mechanics**: Players can add logs to the fire.
+- [x] **Core Player Systems**: Developed a utility module for player messages.
+
+### In Progress / Planned Features
+- [ ] **Advanced Survival Mechanics**:
+    - Player survival clock, hunger, and damage system.
+    - Food gathering (collecting/eating apples).
+- [ ] **Enemy AI**:
+    - Create rat enemies with AI (patrolling, eating, attacking players).
+    - AI behavior variations (night-only attacks, safe zones).
+- [ ] **Advanced Gameplay Loop**:
+    - Player lives, respawning, and stats system.
+    - Day/night cycle with increased difficulty.
+    - Environmental hazards (e.g., lava).
+- [ ] **Data Persistence**: Save player data using DataStores.
+- [ ] **Game Balancing & Polishing**.
+
+## 🚀 Learning Journey
 
 Transitioning from Unity to Roblox introduced many new concepts. I documented my learning process, focusing on active research and experimentation to understand a wide range of topics, including:
 
@@ -44,29 +73,12 @@ Transitioning from Unity to Roblox introduced many new concepts. I documented my
     -   Managing packages with Wally.
     -   Integrating GitHub Copilot directly into the Roblox workflow.
 
-## Features
+## 🖼️ Screenshots
 
-Based on the Udemy course curriculum, here is the current progress of the game's features.
+|   |   |
+|---|---|
+| ![Screenshot 1](Screenshots/Screenshot_1.jpg) | ![Screenshot 2](Screenshots/Screenshot_2.jpg) |
+| ![Screenshot 3](Screenshots/Screenshot_3.jpg) | ![Screenshot 4](Screenshots/Screenshot_4.jpg) |
+| ![Screenshot 5](Screenshots/Screenshot_5.jpg) | ![Screenshot 6](Screenshots/Screenshot_6.jpg) |
 
-### Implemented Features
-- [x] **Environment & Basic Setup**: Set up the game world and initial environment.
-- [x] **Resource Gathering System**:
-    - Implemented log pickup and a central woodpile system (add/take).
-    - Created the axe tool with animations for chopping trees.
-    - Implemented tree spawning, finding the nearest tree, and spawning logs after chopping.
-- [x] **Campfire Mechanics**: Players can add logs to the fire.
-- [x] **Core Player Systems**: Developed a utility module for player messages.
 
-### In Progress / Planned Features
-- [ ] **Advanced Survival Mechanics**:
-    - Player survival clock, hunger, and damage system.
-    - Food gathering (collecting/eating apples).
-- [ ] **Enemy AI**:
-    - Create rat enemies with AI (patrolling, eating, attacking players).
-    - AI behavior variations (night-only attacks, safe zones).
-- [ ] **Advanced Gameplay Loop**:
-    - Player lives, respawning, and stats system.
-    - Day/night cycle with increased difficulty.
-    - Environmental hazards (e.g., lava).
-- [ ] **Data Persistence**: Save player data using DataStores.
-- [ ] **Game Balancing & Polishing**.
